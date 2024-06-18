@@ -1,0 +1,30 @@
+.margintp{
+    padding-top: 40px;
+    margin-bottom: 150px;
+}
+.size-logo-login{
+    width: 70%;
+}
+.shadow{
+        /* Sombras */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Sombra oscura */
+        /* Borde con relieve */
+        border: 1px solid rgba(0, 0, 0, 0.2); /* Borde gris claro */
+        border-radius: 5px; /* Bordes redondeados */  
+}
+.hver{
+    opacity: 1; 
+    transition: opacity 0.3s ease; 
+  }
+.hver:hover {
+    opacity: 0.7; 
+}
+.rad{
+    border-radius: 10px;
+}
+.inpt{
+    width: 100%;
+}
+.margmtop{
+    margin-top: 10px;
+}
